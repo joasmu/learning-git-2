@@ -1,1 +1,1 @@
-# learning-git-2
+https://joasmu.github.io/learning-git-2/index.html
