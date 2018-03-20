@@ -1,0 +1,4 @@
+node_modules/.bin/autoprefixer-cli -o style.prefixed.css style.css (dadanie prefixów)
+
+
+node_modules/.bin/nu-html-checker *.html (sprawdzanie poprawności kodu)

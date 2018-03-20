@@ -1,0 +1,12 @@
+body{
+background: blue;
+
+}
+
+p{
+	font-size: 24px;
+	color: yellow;
+	font-family: Avenir;
+	display: -ms-flexbox;
+	display: flex;
+}
